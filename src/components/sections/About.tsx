@@ -112,9 +112,9 @@ export function About() {
               },
               {
                 degree: "Higher Secondary Certificate (HSC)",
-                institution: "Arulmigu Palaniandavar Arts College, Palani",
+                institution: "Elango Corporation Higher Secondary School",
                 period: "2022 – 2024",
-                cgpa: "89.8%",
+                cgpa: "68.9%",
                 status: "Completed",
                 color: "border-emerald-500/30",
                 badge: "bg-emerald-500/20 text-emerald-400",
