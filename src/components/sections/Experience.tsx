@@ -40,7 +40,7 @@ const education = [
   {
     type: "edu",
     degree: "Higher Secondary Certificate (HSC)",
-    institution: "Arulmigu Palaniandavar Arts College, Palani",
+    institution: "Elango Corporation Higher Secondary School,Madurai",
     date: "2022 – 2024",
     detail: "Score: 89.8%",
     color: "border-emerald-500/40 hover:border-emerald-500/70",
